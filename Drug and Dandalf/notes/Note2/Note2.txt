@@ -1,0 +1,7 @@
+walk_spd:	(walk speed)		yürüme hızı
+hsp:		(horizontal speed)	yatay eksen hareket hızı
+vsp:		(vertical speed)	dikey eksen hareket hızı
+drag:		(drag)				sürtünme kuvveti
+facing:		(facing)			karakterin baktığı taraf
+jump_spd:	(jump speed)		zıplama hızı
+on_ground:	(on ground)			karakterin yere değmekte oldup - olmadığı

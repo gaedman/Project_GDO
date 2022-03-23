@@ -1,0 +1,11 @@
+obj_entity:
+haraketli cisimler için dünya fizik değişkenlerinin bulunduğu sınıfdır buradaki değişiklikler tüm dünyada
+değişikliliklere sebep olur
+
+obj_game:
+Bu dünya yer çekimini elde tutan dünya fiziğidir bunun mapin üst kısmına (soru işareti olarak gözüken şey)
+eklenmesi gerekir.
+
+obj_entity ve obj_game arasındaki fark:
+obj_entity mape eklenmeden karakterleri etkileyen değişkenler tutulurken obj_game kısmında mape eklenerek
+dünya fiziklerini değiştiren etkenler tutulur
